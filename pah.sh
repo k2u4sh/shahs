@@ -1,6 +1,6 @@
 #!/bin/bash
 
 # Change directory to the Flutter project directory
-cd project
+cd /Users/apple/whitelabel/project
 # Run 'flutter pub get' command
 flutter pub get
